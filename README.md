@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="https://skyasinbux.netlify.app/" target="_blank">sk yasin bux</a>
+  <a href="https://skyasinbux.netlify.app/" target="_blank">SK YASIN BUX</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
