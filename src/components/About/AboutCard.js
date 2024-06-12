@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sk Yasin Bux </span>
             from <span className="purple"> Bhubaneswar, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently employed as a software developer at Magicscript Digital Pvt. Ltd.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at BIT
-            Mesra.
+            I have completed Masters MCS (Master of Computer Application) at GITA Autonomous College, Bhubaneswar.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -24,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Listening Music
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
