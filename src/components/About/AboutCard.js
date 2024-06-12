@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             I am currently employed as a software developer at Magicscript Digital Pvt. Ltd.
             <br />
-            I have completed Masters MCS (Master of Computer Application) at GITA Autonomous College, Bhubaneswar.
+            I have completed Master's degree MCA (Master of Computer Application) at GITA Autonomous College, Bhubaneswar.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
