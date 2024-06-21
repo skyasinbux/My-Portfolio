@@ -3,6 +3,7 @@ import { Container, Row } from "react-bootstrap";
 import Button from "react-bootstrap/Button";
 import Particle from "../Particle";
 import pdf from "../../Assets/../Assets/My_resume_updated.pdf";
+import pdf2 from "../../Assets/../Assets/My_resume_updated-2.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
@@ -36,10 +37,12 @@ function ResumeNew() {
             <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
           </Document>
         </Row>
-        <Row style={{ justifyContent: "center", position: "relative" }}>
-            Download to see full CV
+        <Row className="resume">
+          <Document file={pdf2} className="d-flex justify-content-center">
+            <Page pageNumber={1} scale={width > 786 ? 1.7 : 0.6} />
+          </Document>
         </Row>
-
+        
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
